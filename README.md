@@ -14,4 +14,4 @@
 
 ### Contact me
 
-~~I didn't protect my email on GitHub, so you can find it in your own way🤗.~~
+~~I didn't protect my email on GitHub, so you can find it in some way🤗.~~
