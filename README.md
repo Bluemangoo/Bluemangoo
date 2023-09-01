@@ -2,9 +2,11 @@
 
 - 🏫 A high schol student
 - 📘 Leaning C++, Java, Python, Node.js now
-- ✍️ Blogger at my [blog](https://blog.bluemangoo.net) 
+- ✍️ Blogger at my [blog](https://blog.bluemangoo.net)
 
 [Homepage (zh)](https://bluemangoo.net/) · [Blog (zh)](https://blog.bluemangoo.net/) · [About (zh)](https://blog.bluemangoo.net/about/)
+
+~~I didn't protect my email on GitHub, so you can find it in your own way🤗.~~
 
 ![Bluemangoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluemangoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
