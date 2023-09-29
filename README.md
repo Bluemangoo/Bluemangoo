@@ -15,3 +15,11 @@
 ### Contact me
 
 ~~I didn't protect my email on GitHub, so you can find it in some way🤗.~~
+
+<details>
+
+<summary>Only for Chinese users</summary>
+
+欢迎使用软件站 [Aquarium](https://github.com/Bluemangoo/Aquarium)，在这里可以找到一些常用软件，并提供便捷下载。部署在 [https://aquarium.bluemangoo.net/](https://aquarium.bluemangoo.net/) 。
+
+</details>
