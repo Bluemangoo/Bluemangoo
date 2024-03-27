@@ -1,7 +1,7 @@
 ## Hi 👋 Bluemangoo here.
 
 - 🏫 A high schol student
-- 📘 Leaning C++, Java, Python, Node.js now
+- 📘 Learning C++, Java, Python, Node.js now
 - ✍️ Blogger at my [blog](https://blog.bluemangoo.net)
 
 [Homepage (zh)](https://bluemangoo.net/) · [Blog (zh)](https://blog.bluemangoo.net/) · [About (zh)](https://blog.bluemangoo.net/about/)
