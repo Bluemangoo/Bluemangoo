@@ -6,6 +6,12 @@
 
 [Homepage (zh)](https://bluemangoo.net/) · [Blog (zh)](https://blog.bluemangoo.net/) · [About (zh)](https://blog.bluemangoo.net/about/)
 
+### Hithlights
+
+- Member of [LeavesMC](https://github.com/LeavesMC)
+- Active contributor of [MCSManager](https://github.com/MCSManager)
+  - ![badge](https://github-pr-count-badge.vercel.app/badge/pr-org?org=MCSManager&contributor=Bluemangoo)
+
 ### Stats
 
 ![Bluemangoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluemangoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
