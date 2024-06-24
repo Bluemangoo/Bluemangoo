@@ -6,7 +6,7 @@
 
 [Homepage (zh)](https://bluemangoo.net/) · [Blog (zh)](https://blog.bluemangoo.net/) · [About (zh)](https://blog.bluemangoo.net/about/)
 
-### Hithlights
+### Highlights
 
 - Member of [LeavesMC](https://github.com/LeavesMC)
 - Active contributor of [MCSManager](https://github.com/MCSManager)
