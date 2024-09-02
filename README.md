@@ -1,6 +1,5 @@
 ## Hi 👋 Bluemangoo here.
 
-- 🏫 A high schol student
 - 📘 Learning C++, Java, Python, Node.js now
 - ✍️ Blogger at my [blog](https://blog.bluemangoo.net)
 
