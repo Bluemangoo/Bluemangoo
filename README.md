@@ -1,10 +1,5 @@
 ## Hi 👋 Bluemangoo here.
 
-- 📘 Learning C++, Java, Python, Node.js now
-- ✍️ Blogger at my [blog](https://blog.bluemangoo.net)
-
-[Homepage (zh)](https://bluemangoo.net/) · [Blog (zh)](https://blog.bluemangoo.net/) · [About (zh)](https://blog.bluemangoo.net/about/)
-
 ### Highlights
 
 - Member of [LeavesMC](https://github.com/LeavesMC)
