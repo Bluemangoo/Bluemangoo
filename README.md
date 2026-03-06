@@ -5,7 +5,7 @@
 - Member of [LeavesMC](https://github.com/LeavesMC)
 - Member and active contributor of [MCSManager](https://github.com/MCSManager)
   - ![badge](https://github-pr-count-badge.vercel.app/badge/pr-org?org=MCSManager&contributor=Bluemangoo)
-- Active contributor of [uutils](https://github.com/uutils)
+- Active contributor of [uutils](https://github.com/uutils) \(collaborator of procps)
   - ![badge](https://github-pr-count-badge.vercel.app/badge/pr-org?org=uutils&contributor=Bluemangoo)
 
 ### Stats
